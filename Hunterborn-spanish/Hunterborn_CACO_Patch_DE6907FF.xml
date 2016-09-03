@@ -1,0 +1,1203 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>051fb129</ID>
+    <EDID>CACO_GoatEye_RWS</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Goat Eye</ORIGINAL>
+    <TRADUIT>Ojo de cabra</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa1e</ID>
+    <EDID>_DS_BearEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Bear</ORIGINAL>
+    <TRADUIT>Ojo de oso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa1f</ID>
+    <EDID>_DS_FoxEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Fox</ORIGINAL>
+    <TRADUIT>Ojo de zorro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa21</ID>
+    <EDID>_DS_PolishedHareEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Hare Eye</ORIGINAL>
+    <TRADUIT>Ojo de conejo pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa23</ID>
+    <EDID>_DS_PolishedMammothEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Mammoth Eye</ORIGINAL>
+    <TRADUIT>Ojo de mamut pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa25</ID>
+    <EDID>_DS_WolfEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Wolf</ORIGINAL>
+    <TRADUIT>Ojo de lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa27</ID>
+    <EDID>_DS_BearHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bear Heart</ORIGINAL>
+    <TRADUIT>Corazón de oso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa29</ID>
+    <EDID>_DS_DeerHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Deer Heart</ORIGINAL>
+    <TRADUIT>Corazón de ciervo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa2b</ID>
+    <EDID>_DS_GoatHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Goat Heart</ORIGINAL>
+    <TRADUIT>Corazón de cabra</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa2d</ID>
+    <EDID>_DS_SabrecatHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sabre Cat Heart</ORIGINAL>
+    <TRADUIT>Corazón de gato sable</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa2f</ID>
+    <EDID>_DS_WolfHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wolf Heart</ORIGINAL>
+    <TRADUIT>Corazón de lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa31</ID>
+    <EDID>_DS_MammothHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mammoth Heart</ORIGINAL>
+    <TRADUIT>Corazón de mamut</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa33</ID>
+    <EDID>_DS_BearTooth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bear Tooth</ORIGINAL>
+    <TRADUIT>Diente de oso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa35</ID>
+    <EDID>_DS_CanineTooth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Canine Tooth</ORIGINAL>
+    <TRADUIT>Diente canino</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa37</ID>
+    <EDID>_DS_SabrecatClaws</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sabre Cat Claws</ORIGINAL>
+    <TRADUIT>Garras de gato sable</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600aa39</ID>
+    <EDID>_DS_WolfClaws</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wolf Claws</ORIGINAL>
+    <TRADUIT>Garras de lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600bfcc</ID>
+    <EDID>_DS_PowderedMudcrabChitin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Powdered Mudcrab Chitin</ORIGINAL>
+    <TRADUIT>Quitina de cangrejo del barro molido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0600ca98</ID>
+    <EDID>_DS_BullHorn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bull Horn</ORIGINAL>
+    <TRADUIT>Cuerno de toro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfa8</ID>
+    <EDID>_DS_BoiledSkeeverTail</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boiled Skeever Tail</ORIGINAL>
+    <TRADUIT>Cola de skeever cocida</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfa9</ID>
+    <EDID>_DS_PolishedScales</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Scales</ORIGINAL>
+    <TRADUIT>Escamas pulidas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfaa</ID>
+    <EDID>_DS_CuredSkeeverHide</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Cured Skeever Hide</ORIGINAL>
+    <TRADUIT>Pellejo de skeever curado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfab</ID>
+    <EDID>_DS_LargeMudcrabChitin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Large Mudcrab Chitin</ORIGINAL>
+    <TRADUIT>Quitina grande de cangrejo del barro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfac</ID>
+    <EDID>_DS_LargeBearClaws</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Large Bear Claws</ORIGINAL>
+    <TRADUIT>Garras grandes de oso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfad</ID>
+    <EDID>_DS_FawlessSabrecatTooth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Flawless Sabre Cat Tooth</ORIGINAL>
+    <TRADUIT>Diente de gato sable perfecto</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfae</ID>
+    <EDID>_DS_PolishedSabrecatEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Sabre Cat Eye</ORIGINAL>
+    <TRADUIT>Ojo de gato sable pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfaf</ID>
+    <EDID>_DS_AntlersGreat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Great Antlers</ORIGINAL>
+    <TRADUIT>Cuernos grandes</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfb0</ID>
+    <EDID>_DS_AntlersDoe</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Doe Antlers</ORIGINAL>
+    <TRADUIT>Cuernos de cierva</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfb1</ID>
+    <EDID>_DS_CharredHawkBeak</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Charred Hawk Beak</ORIGINAL>
+    <TRADUIT>Pico de halcón chamuscado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601cfb2</ID>
+    <EDID>_DS_DyedHawkFeathers</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dyed Hawk Feathers</ORIGINAL>
+    <TRADUIT>Plumas halcon tintado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da7a</ID>
+    <EDID>_DS_LargeSabrecatClaws</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Large Sabre Cat Claws</ORIGINAL>
+    <TRADUIT>Garras grandes de gato sable</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da7b</ID>
+    <EDID>_DS_FlawlessBearTooth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Flawless Bear Tooth</ORIGINAL>
+    <TRADUIT>Diente de oso perfecto</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da80</ID>
+    <EDID>_DS_PolishedWolfEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Wolf Eye</ORIGINAL>
+    <TRADUIT>Ojo de lobo pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da81</ID>
+    <EDID>_DS_PolishedFoxEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Fox Eye</ORIGINAL>
+    <TRADUIT>Ojo de zorro pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da83</ID>
+    <EDID>_DS_PolishedBearEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Bear Eye</ORIGINAL>
+    <TRADUIT>Ojo de oso pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da85</ID>
+    <EDID>_DS_HareEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Hare</ORIGINAL>
+    <TRADUIT>Ojo de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0601da87</ID>
+    <EDID>_DS_MammothEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Mammoth</ORIGINAL>
+    <TRADUIT>Ojo de mamut</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dc2</ID>
+    <EDID>_DS_TrollEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Troll</ORIGINAL>
+    <TRADUIT>Ojo de trol</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dc3</ID>
+    <EDID>_DS_WerewolfEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Werewolf</ORIGINAL>
+    <TRADUIT>Ojo de hombre lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dc5</ID>
+    <EDID>_DS_DragonEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Dragon</ORIGINAL>
+    <TRADUIT>Ojo de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dc7</ID>
+    <EDID>_DS_WerewolfHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Werewolf Heart</ORIGINAL>
+    <TRADUIT>Corazón de hombre lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dc9</ID>
+    <EDID>_DS_TrollHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Troll Heart</ORIGINAL>
+    <TRADUIT>Corazón de trol</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dcb</ID>
+    <EDID>_DS_DragonHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Heart</ORIGINAL>
+    <TRADUIT>Corazón de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dd2</ID>
+    <EDID>_DS_PolishedTrollEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Troll Eye</ORIGINAL>
+    <TRADUIT>Ojo de trol pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06029dd4</ID>
+    <EDID>_DS_PolishedWerewolfEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Werewolf Eye</ORIGINAL>
+    <TRADUIT>Ojo de hombre lobo pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0602a339</ID>
+    <EDID>_DS_PolishedDragonEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Dragon Eye</ORIGINAL>
+    <TRADUIT>Ojo de dragón pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06035058</ID>
+    <EDID>_DS_Bonesap</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bonesap</ORIGINAL>
+    <TRADUIT>Savia de hueso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06064a81</ID>
+    <EDID>_DS_BristlebackHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bristleback Heart</ORIGINAL>
+    <TRADUIT>Corazón de tatabro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>06064a83</ID>
+    <EDID>_DS_BristlebackEyeball</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Eye of Bristleback</ORIGINAL>
+    <TRADUIT>Ojo de tatabro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>0614da06</ID>
+    <EDID>_DS_PolishedBristlebackEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Bristleback Eye</ORIGINAL>
+    <TRADUIT>Ojo de tatabro pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>INGR</GRUP>
+    <ID>07000845</ID>
+    <EDID>HB_PolishedGoatEye</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Polished Goat Eye</ORIGINAL>
+    <TRADUIT>Ojo de cabra pulido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06014226</ID>
+    <EDID>_DS_Food_EdibleFlower</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Flower</ORIGINAL>
+    <TRADUIT>Flor comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06014228</ID>
+    <EDID>_DS_Food_EdibleInsect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Insect</ORIGINAL>
+    <TRADUIT>Insecto comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0601422a</ID>
+    <EDID>_DS_Food_EdibleMushroom</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Mushroom</ORIGINAL>
+    <TRADUIT>Champiñon comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0601422c</ID>
+    <EDID>_DS_Food_EdibleRoot</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Root</ORIGINAL>
+    <TRADUIT>Raiz comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0601422e</ID>
+    <EDID>_DS_Food_EdibleBerry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Berry</ORIGINAL>
+    <TRADUIT>Baya comenstible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060147a2</ID>
+    <EDID>_DS_Food_Raw_Hare</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Rabbit Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06014d22</ID>
+    <EDID>_DS_Food_Raw_Mudcrab</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Mudcrab Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de cangrejo del barro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e0b</ID>
+    <EDID>_DS_Food_FoxAppleStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fox Apple Stew</ORIGINAL>
+    <TRADUIT>Guiso de zorro y manzana</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e13</ID>
+    <EDID>_DS_Food_MudcrabChowder</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mudcrab Chowder</ORIGINAL>
+    <TRADUIT>Sopa de cangrejo del barro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e2f</ID>
+    <EDID>_DS_Food_FoxHerbCutlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fox Herb Cutlet</ORIGINAL>
+    <TRADUIT>Chuleta de zorro especiada</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e47</ID>
+    <EDID>_DS_Food_DragonStuffedRabbit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Stuffed Rabbit</ORIGINAL>
+    <TRADUIT>Conejo relleno de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e4d</ID>
+    <EDID>_DS_Food_BoiledMudcrab</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boiled Mudcrab</ORIGINAL>
+    <TRADUIT>Cangrejo del barro cocido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06017e4f</ID>
+    <EDID>_DS_Food_MudcrabEgg</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mudcrab Egg Scramble</ORIGINAL>
+    <TRADUIT>Huevos de cangrejo del barro revueltos</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027ce6</ID>
+    <EDID>_DS_Venom_Chaurus</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaurus Venom</ORIGINAL>
+    <TRADUIT>Veneno de cauro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027ce7</ID>
+    <EDID>_DS_Venom_Spider</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Venom</ORIGINAL>
+    <TRADUIT>Veneno de araña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027ceb</ID>
+    <EDID>_DS_Venom_Spider_Potent</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Potent Spider Venom</ORIGINAL>
+    <TRADUIT>Veneno de araña potente</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027cec</ID>
+    <EDID>_DS_Venom_Spider_Virulent</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Virulent Spider Venom</ORIGINAL>
+    <TRADUIT>Veneno de araña virulento</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027cee</ID>
+    <EDID>_DS_Venom_Spider_Deadly</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Deadly Spider Venom</ORIGINAL>
+    <TRADUIT>Veneno de araña mortal</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027cf0</ID>
+    <EDID>_DS_Venom_Chaurus_Potent</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Potent Chaurus Venom</ORIGINAL>
+    <TRADUIT>Veneno de cauro potente</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027cf2</ID>
+    <EDID>_DS_Venom_Chaurus_Virulent</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Virulent Chaurus Venom</ORIGINAL>
+    <TRADUIT>Veneno de cauro virulento</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06027cf4</ID>
+    <EDID>_DS_Venom_Chaurus_Deadly</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Deadly Chaurus Venom</ORIGINAL>
+    <TRADUIT>Veneno de cauro mortal</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06029846</ID>
+    <EDID>_DS_Food_Raw_Spider</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Spider Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de araña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06029849</ID>
+    <EDID>_DS_Food_Raw_Dragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Dragon Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06029db9</ID>
+    <EDID>_DS_Food_SpiderSoup</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Soup</ORIGINAL>
+    <TRADUIT>Sopa de araña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06029dbc</ID>
+    <EDID>_DS_Food_DragonSteak</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Cooked Dragon Steak</ORIGINAL>
+    <TRADUIT>Filete de dragón cocinado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060314c4</ID>
+    <EDID>_DS_Food_SpiderFry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Fry</ORIGINAL>
+    <TRADUIT>Araña frita</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060314c5</ID>
+    <EDID>_DS_Food_BoiledSpiderPaste</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boiled Spider Paste</ORIGINAL>
+    <TRADUIT>Pasta de araña cocida</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060314d1</ID>
+    <EDID>_DS_Food_DragonHeartStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Heart Stew</ORIGINAL>
+    <TRADUIT>Guiso de corazón de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060314d4</ID>
+    <EDID>_DS_Food_DragonBloodPudding</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fiery Dragon Stew</ORIGINAL>
+    <TRADUIT>Guiso de dragón picante</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060314d7</ID>
+    <EDID>_DS_Food_WyrmChips</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wyrm and Chips</ORIGINAL>
+    <TRADUIT>Sierpe con patatas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>06031a49</ID>
+    <EDID>_DS_Food_CarrotPotatoDragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Carrot, Potato, Dragon</ORIGINAL>
+    <TRADUIT>Dragón con patatas y zanahorias</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0603fd68</ID>
+    <EDID>_DS_Tea_TenDragons</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ten Dragons Tea</ORIGINAL>
+    <TRADUIT>Té diez dragones</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402d7</ID>
+    <EDID>_DS_Tea_Juniper</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Juniper Tea</ORIGINAL>
+    <TRADUIT>Té de enebro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402da</ID>
+    <EDID>_DS_Tea_Lavender</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lavender Tea</ORIGINAL>
+    <TRADUIT>Té de lavanda</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402dc</ID>
+    <EDID>_DS_Tea_MountainFlower</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mountain Flower Tea</ORIGINAL>
+    <TRADUIT>Té de flor de montaña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402de</ID>
+    <EDID>_DS_Tea_MoonDance</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Moon Dance Tea</ORIGINAL>
+    <TRADUIT>Té danza de luna</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402e0</ID>
+    <EDID>_DS_Tea_NirnSpring</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Nirn Spring Tea</ORIGINAL>
+    <TRADUIT>Té primavera de nirn</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402e2</ID>
+    <EDID>_DS_Tea_Snowberry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Snowberry Tea</ORIGINAL>
+    <TRADUIT>Té de sinfocarpos</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060402e4</ID>
+    <EDID>_DS_Tea_WheatBoon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wheat Boon Tea</ORIGINAL>
+    <TRADUIT>Té bendición de trigo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060c4e31</ID>
+    <EDID>_DS_Food_EdibleBerryBunch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bunch of Berries</ORIGINAL>
+    <TRADUIT>Racimo de bayas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060ed667</ID>
+    <EDID>_DS_Food_Teabag_HighKingsStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>High King's Stew</ORIGINAL>
+    <TRADUIT>Guiso gran rey</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060ed66a</ID>
+    <EDID>_DS_Food_Teabag_RarebitRagout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rarebit Ragout</ORIGINAL>
+    <TRADUIT>Ragú de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060ed66e</ID>
+    <EDID>_DS_Food_Teabag_SpiderSurprise</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Surprise</ORIGINAL>
+    <TRADUIT>Sorpresa arácnida</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060ed674</ID>
+    <EDID>_DS_Food_Teabag_FishCrabSauce</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fish with Crab Sauce</ORIGINAL>
+    <TRADUIT>Pescado con salsa de cangrejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060ed676</ID>
+    <EDID>_DS_Food_Teabag_MorthalMudders</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Morthal Mudders</ORIGINAL>
+    <TRADUIT>Cenagosos de Morthal</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>060f2785</ID>
+    <EDID>_DS_Food_Teabag_FlamingDragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Flaming Dragon</ORIGINAL>
+    <TRADUIT>Dragón llameante</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>07000802</ID>
+    <EDID>HB_CACO_FoodMeatJerkyHare_ExtraFood</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rabbit Jerky</ORIGINAL>
+    <TRADUIT>Cecina de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>07000803</ID>
+    <EDID>HB_CACO_FoodMeatDragonRawPortion</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Dragon Steak</ORIGINAL>
+    <TRADUIT>Filete de dragón crudo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0700080c</ID>
+    <EDID>HB_CACO_FoodMeatDragonCookedWhole</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Cooked Dragon</ORIGINAL>
+    <TRADUIT>Dragón cocinado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>QUST</GRUP>
+    <ID>06003367</ID>
+    <EDID>_DS_Hunterborn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Hunterborn</ORIGINAL>
+    <TRADUIT>Hunterborn</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>52</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+</DocumentElement>

@@ -1,0 +1,1383 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>CNAM</CHAMP>
+    <ORIGINAL>dragonsong</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>TES4</GRUP>
+    <ID>00000000</ID>
+    <EDID />
+    <CHAMP>SNAM</CHAMP>
+    <ORIGINAL>Patch that makes Hunterborn's meat and meals compatible with Realistic Needs and Diseases, by perseid9.</ORIGINAL>
+    <TRADUIT />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0400b504</ID>
+    <EDID>_DS_Potn_StrangeBrew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Strange Brew</ORIGINAL>
+    <TRADUIT>Brebaje extraño</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04012c6b</ID>
+    <EDID>_DS_Food_OxHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ox Heart</ORIGINAL>
+    <TRADUIT>Corazón de buey</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04012c6c</ID>
+    <EDID>_DS_Food_HorseHeart</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Horse Heart</ORIGINAL>
+    <TRADUIT>Corazón de caballo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014226</ID>
+    <EDID>_DS_Food_EdibleFlower</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Flower</ORIGINAL>
+    <TRADUIT>Flor comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014228</ID>
+    <EDID>_DS_Food_EdibleInsect</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Insect</ORIGINAL>
+    <TRADUIT>Insecto comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401422a</ID>
+    <EDID>_DS_Food_EdibleMushroom</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Mushroom</ORIGINAL>
+    <TRADUIT>Champiñón comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401422c</ID>
+    <EDID>_DS_Food_EdibleRoot</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Root</ORIGINAL>
+    <TRADUIT>Raiz comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401422e</ID>
+    <EDID>_DS_Food_EdibleBerry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Edible Berry</ORIGINAL>
+    <TRADUIT>Baya comestible</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014795</ID>
+    <EDID>_DS_Food_RawBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Bear Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de oso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014796</ID>
+    <EDID>_DS_Food_RawSkeever</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Skeever Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de skeever</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014798</ID>
+    <EDID>_DS_Food_RawFox</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Fox Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de zorro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401479a</ID>
+    <EDID>_DS_Food_RawGoat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Goat Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de cabra</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401479c</ID>
+    <EDID>_DS_Food_RawWolf</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Wolf Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0401479e</ID>
+    <EDID>_DS_Food_RawMammoth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Mammoth Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de mamut</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040147a0</ID>
+    <EDID>_DS_Food_RawSabrecat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Sabre Cat Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de gato sable</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040147a2</ID>
+    <EDID>_DS_Food_RawHare</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Rabbit Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014d21</ID>
+    <EDID>_DS_Food_RawElk</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Venison (Elk)</ORIGINAL>
+    <TRADUIT>Venado (alce)</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014d22</ID>
+    <EDID>_DS_Food_RawMudcrab</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Mudcrab Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de cangrejo del barro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04014d24</ID>
+    <EDID>_DS_Food_RawSlaughterfish</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Slaughterfish Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de pez asesino</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e08</ID>
+    <EDID>_DS_Food_BearCarrotStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bear Carrot Stew</ORIGINAL>
+    <TRADUIT>Guiso de oso y zanahoria</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e09</ID>
+    <EDID>_DS_Food_HuntersStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Hunter's Hearty Stew</ORIGINAL>
+    <TRADUIT>Guiso saludable del cazador</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e0b</ID>
+    <EDID>_DS_Food_FoxAppleStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fox Apple Stew</ORIGINAL>
+    <TRADUIT>Guiso de zorro y manzana</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e0d</ID>
+    <EDID>_DS_Food_SpicedDicedGoat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spiced Diced Goat</ORIGINAL>
+    <TRADUIT>Cabra troceada especiada</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e0f</ID>
+    <EDID>_DS_Food_RabbitMushroomStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rabbit Mushroom Stew</ORIGINAL>
+    <TRADUIT>Guiso de conejo y champiñones</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e11</ID>
+    <EDID>_DS_Food_MammothTomatoStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mammoth Tomato Stew</ORIGINAL>
+    <TRADUIT>Guiso de mamut y tomate</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e13</ID>
+    <EDID>_DS_Food_MudcrabChowder</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mudcrab Chowder</ORIGINAL>
+    <TRADUIT>Potaje de cangrejo del barro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e15</ID>
+    <EDID>_DS_Food_SaltySabredStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Salty Sabred Stew</ORIGINAL>
+    <TRADUIT>Guiso de gato sable salado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e17</ID>
+    <EDID>_DS_Food_SkeevenderStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skeevender Stew</ORIGINAL>
+    <TRADUIT>Guiso de skeevanda</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e19</ID>
+    <EDID>_DS_Food_WolfCabbageStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wolf Cabbage Stew</ORIGINAL>
+    <TRADUIT>Guiso de lobo y col</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e1b</ID>
+    <EDID>_DS_Food_VenisonJerky</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Venison Jerky</ORIGINAL>
+    <TRADUIT>Cecina de venado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e1d</ID>
+    <EDID>_DS_Food_HorseJerky</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Horse Jerky</ORIGINAL>
+    <TRADUIT>Cecina de caballo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e1f</ID>
+    <EDID>_DS_Food_SearedFox</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Seared Fox</ORIGINAL>
+    <TRADUIT>Zorro a la brasa</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e21</ID>
+    <EDID>_DS_Food_SearedRabbit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Seared Rabbit</ORIGINAL>
+    <TRADUIT>Conejo a la brasa</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e23</ID>
+    <EDID>_DS_Food_MuttChop</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mutt Chop</ORIGINAL>
+    <TRADUIT>Chuletillas de perro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e25</ID>
+    <EDID>_DS_Food_AleBraisedSabreCat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ale Braised Sabre Cat</ORIGINAL>
+    <TRADUIT>Cocido de gato sable a la cerveza</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e27</ID>
+    <EDID>_DS_Food_WolfChopSnowberry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wolf Chop in Snowberry Sauce</ORIGINAL>
+    <TRADUIT>Lobo troceado en salsa de sinfocarpos</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e29</ID>
+    <EDID>_DS_Food_MeadBraisedBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mead Braised Bear</ORIGINAL>
+    <TRADUIT>Cocido de oso al aguamiel</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e2b</ID>
+    <EDID>_DS_Food_VenisonTenderloin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Venison Tenderloin</ORIGINAL>
+    <TRADUIT>Solomillo de venado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e2d</ID>
+    <EDID>_DS_Food_BreadedElkCutlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Breaded Elk Cutlet</ORIGINAL>
+    <TRADUIT>Chuleta de alce empanada</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e2f</ID>
+    <EDID>_DS_Food_FoxHerbCutlet</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fox Herb Cutlet</ORIGINAL>
+    <TRADUIT>Chuleta de zorro especiada</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e31</ID>
+    <EDID>_DS_Food_MullwineBraisedMammoth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mullwine Braised Mammoth</ORIGINAL>
+    <TRADUIT>Cocido de mamut al vino especiado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e33</ID>
+    <EDID>_DS_Food_SabreCatPotRoast</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sabre Cat Pot Roast</ORIGINAL>
+    <TRADUIT>Gato sable asado a la cazuela</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e35</ID>
+    <EDID>_DS_Food_ElkSteak</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Elk Steak</ORIGINAL>
+    <TRADUIT>Filete de alce</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e37</ID>
+    <EDID>_DS_Food_GoatHaunch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Goat Haunch</ORIGINAL>
+    <TRADUIT>Pata de cabra</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e39</ID>
+    <EDID>_DS_Food_WolfHaunch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wolf Haunch</ORIGINAL>
+    <TRADUIT>Pata de lobo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e3b</ID>
+    <EDID>_DS_Food_SmokedElkRoast</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Smoked Elk Roast</ORIGINAL>
+    <TRADUIT>Asado de alce ahumado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e3d</ID>
+    <EDID>_DS_Food_HoneyedMammothRoast</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Honeyed Mammoth Roast</ORIGINAL>
+    <TRADUIT>Asado de mamut meloso</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e3f</ID>
+    <EDID>_DS_Food_MincedMarinatedBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Minced Marinated Bear</ORIGINAL>
+    <TRADUIT>Oso troceado marinado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e41</ID>
+    <EDID>_DS_Food_RootBear</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Root Bear</ORIGINAL>
+    <TRADUIT>Oso enraizado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e43</ID>
+    <EDID>_DS_Food_ElfEaredElk</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Elf Eared Elk</ORIGINAL>
+    <TRADUIT>Alce a la oreja de elfo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e45</ID>
+    <EDID>_DS_Food_GoatPotatoes</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Goat and Potatoes</ORIGINAL>
+    <TRADUIT>Cabra con patatas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e47</ID>
+    <EDID>_DS_Food_DragonStuffedRabbit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Stuffed Rabbit</ORIGINAL>
+    <TRADUIT>Conejo relleno de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e49</ID>
+    <EDID>_DS_Food_HotHoneyHorker</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Hot Honey Horker</ORIGINAL>
+    <TRADUIT>Horker caliente amielado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e4b</ID>
+    <EDID>_DS_Food_MarinatedMammothElsweyr</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Marinated Mammoth in Elsweyr Sauce</ORIGINAL>
+    <TRADUIT>Mamut marinado con salsa de Elsweyr</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e4d</ID>
+    <EDID>_DS_Food_BoiledMudcrab</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boiled Mudcrab</ORIGINAL>
+    <TRADUIT>Cangrejo del barro cocido</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e4f</ID>
+    <EDID>_DS_Food_MudcrabEgg</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mudcrab Egg Scramble</ORIGINAL>
+    <TRADUIT>Huevos de cangrejo del barro revueltos</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e51</ID>
+    <EDID>_DS_Food_SkeweredSkeever</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skewered Skeever</ORIGINAL>
+    <TRADUIT>Brocheta de skeever</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e53</ID>
+    <EDID>_DS_Food_VelvetSlaughter</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Velvet Slaughter</ORIGINAL>
+    <TRADUIT>Terciopelo asesino</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04017e55</ID>
+    <EDID>_DS_Food_SweetWolf</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sweetwolf</ORIGINAL>
+    <TRADUIT>Lobo endulzado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04027783</ID>
+    <EDID>_DS_Food_RawChaurus</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Chaurus Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de cauro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029846</ID>
+    <EDID>_DS_Food_RawSpider</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Spider Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de araña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029847</ID>
+    <EDID>_DS_Food_RawTroll</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Troll Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de trol</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029849</ID>
+    <EDID>_DS_Food_RawDragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Raw Dragon Meat</ORIGINAL>
+    <TRADUIT>Carne cruda de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029854</ID>
+    <EDID>_DS_Food_ChaurusPie</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaurus Pie</ORIGINAL>
+    <TRADUIT>Pastel de cauro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029db9</ID>
+    <EDID>_DS_Food_SpiderSoup</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Soup</ORIGINAL>
+    <TRADUIT>Sopa de araña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029dba</ID>
+    <EDID>_DS_Food_CharredTroll</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Charred Troll</ORIGINAL>
+    <TRADUIT>Trol chamuscado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04029dbc</ID>
+    <EDID>_DS_Food_DragonSteak</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Steak</ORIGINAL>
+    <TRADUIT>Filete de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314c4</ID>
+    <EDID>_DS_Food_SpiderFry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Fry</ORIGINAL>
+    <TRADUIT>Araña frita</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314c5</ID>
+    <EDID>_DS_Food_BoiledSpiderPaste</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boiled Spider Paste</ORIGINAL>
+    <TRADUIT>Pasta de araña cocida</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314c9</ID>
+    <EDID>_DS_Food_PoisonersStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Poisoner's Stew</ORIGINAL>
+    <TRADUIT>Guiso del envenenador</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314cc</ID>
+    <EDID>_DS_Food_ChaurusChops</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Chaurus Chops</ORIGINAL>
+    <TRADUIT>Chuletas de cauro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314cd</ID>
+    <EDID>_DS_Food_TrollJerky</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Troll Jerky</ORIGINAL>
+    <TRADUIT>Cecina de trol</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314d1</ID>
+    <EDID>_DS_Food_DragonHeartStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Heart Stew</ORIGINAL>
+    <TRADUIT>Guiso de corazón de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314d4</ID>
+    <EDID>_DS_Food_DragonBloodPudding</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dragon Blood-Pudding</ORIGINAL>
+    <TRADUIT>Morcilla de dragón</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040314d7</ID>
+    <EDID>_DS_Food_WyrmChips</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wyrm and Chips</ORIGINAL>
+    <TRADUIT>Sierpe con patatas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04031a49</ID>
+    <EDID>_DS_Food_CarrotPotatoDragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Carrot, Potato, Dragon</ORIGINAL>
+    <TRADUIT>Dragón con patatas y zanahorias</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0403fd68</ID>
+    <EDID>_DS_Tea_TenDragons</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ten Dragons Tea</ORIGINAL>
+    <TRADUIT>Té diez dragones</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402d7</ID>
+    <EDID>_DS_Tea_Juniper</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Juniper Tea</ORIGINAL>
+    <TRADUIT>Té de enebro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402da</ID>
+    <EDID>_DS_Tea_Lavender</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lavender Tea</ORIGINAL>
+    <TRADUIT>Té de lavanda</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402dc</ID>
+    <EDID>_DS_Tea_MountainFlower</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mountain Flower Tea</ORIGINAL>
+    <TRADUIT>Té de flor de montaña</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402de</ID>
+    <EDID>_DS_Tea_MoonDance</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Moon Dance Tea</ORIGINAL>
+    <TRADUIT>Té danza de Luna</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402e0</ID>
+    <EDID>_DS_Tea_NirnSpring</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Nirn Spring Tea</ORIGINAL>
+    <TRADUIT>Té primavera de nirn</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402e2</ID>
+    <EDID>_DS_Tea_Snowberry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Snowberry Tea</ORIGINAL>
+    <TRADUIT>Té de sinfocarpos</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040402e4</ID>
+    <EDID>_DS_Tea_WheatBoon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wheat Boon Tea</ORIGINAL>
+    <TRADUIT>Té bendición de trigo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04055772</ID>
+    <EDID>_DS_Food_Watermelon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Watermelon</ORIGINAL>
+    <TRADUIT>Sandía</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04078ea9</ID>
+    <EDID>_DS_Food_BoarPotatoStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boar Potato Stew</ORIGINAL>
+    <TRADUIT>Guiso de jabalí y patata</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04078eab</ID>
+    <EDID>_DS_Food_BoarLeekStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Boar Leek Stew</ORIGINAL>
+    <TRADUIT>Guiso de jabalí y puerro</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>04078ead</ID>
+    <EDID>_DS_Food_RoastBoar</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Roast Boar</ORIGINAL>
+    <TRADUIT>Jabalí asado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>0407dfb3</ID>
+    <EDID>_DS_Food_WatermelonGazpacho</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Watermelon Gazpacho</ORIGINAL>
+    <TRADUIT>Gazpacho de sandía</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040c4e31</ID>
+    <EDID>_DS_Food_EdibleBerryBunch</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bunch of Berries</ORIGINAL>
+    <TRADUIT>Racimo de bayas</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040e8564</ID>
+    <EDID>_DS_Food_Teabag_SalmonBake</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Salmon Bake</ORIGINAL>
+    <TRADUIT>Salmón al horno</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed667</ID>
+    <EDID>_DS_Food_Teabag_HighKingsStew</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>High King's Stew</ORIGINAL>
+    <TRADUIT>Guiso gran rey</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed66a</ID>
+    <EDID>_DS_Food_Teabag_RarebitRagout</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Rarebit Ragout</ORIGINAL>
+    <TRADUIT>Ragú de conejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed66c</ID>
+    <EDID>_DS_Food_Teabag_BeggarsBroth</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Humble Stew</ORIGINAL>
+    <TRADUIT>Guiso humilde</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed66e</ID>
+    <EDID>_DS_Food_Teabag_SpiderSurprise</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spider Surprise</ORIGINAL>
+    <TRADUIT>Sorpresa arácnida</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed670</ID>
+    <EDID>_DS_Food_Teabag_GlazedGoatLoin</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Glazed Goat Loin</ORIGINAL>
+    <TRADUIT>Lomo de cabra glaseado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed672</ID>
+    <EDID>_DS_Food_Teabag_SpottedDog</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Spotted Dog</ORIGINAL>
+    <TRADUIT>Perro jaspeado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed674</ID>
+    <EDID>_DS_Food_Teabag_FishCrabSauce</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fish with Crab Sauce</ORIGINAL>
+    <TRADUIT>Pescado con salsa de cangrejo</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed676</ID>
+    <EDID>_DS_Food_Teabag_MorthalMudders</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Morthal Mudders</ORIGINAL>
+    <TRADUIT>Cenagosos de Morthal</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed678</ID>
+    <EDID>_DS_Food_Teabag_OceansKiss</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ocean's Kiss</ORIGINAL>
+    <TRADUIT>Beso del océano</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed67a</ID>
+    <EDID>_DS_Food_Teabag_FarmersBreakfast</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Farmer's Breakfast</ORIGINAL>
+    <TRADUIT>Desayuno del granjero</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed67c</ID>
+    <EDID>_DS_Food_Teabag_WoolCoat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Wool Coat</ORIGINAL>
+    <TRADUIT>Abrigo de lana</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed67e</ID>
+    <EDID>_DS_Food_Teabag_DeviledChaurus</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Deviled Chaurus</ORIGINAL>
+    <TRADUIT>Cauro picante</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040ed680</ID>
+    <EDID>_DS_Food_Teabag_FattyFinFry</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fatty Fin Fry</ORIGINAL>
+    <TRADUIT>Aleta grasienta frita</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2783</ID>
+    <EDID>_DS_Food_Teabag_MashedTroll</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mashed Troll</ORIGINAL>
+    <TRADUIT>Puré de trol</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2785</ID>
+    <EDID>_DS_Food_Teabag_FlamingDragon</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Flaming Dragon</ORIGINAL>
+    <TRADUIT>Dragón llameante</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2787</ID>
+    <EDID>_DS_Food_Teabag_MammothBalls</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Mammoth Balls</ORIGINAL>
+    <TRADUIT>Albóndigas de mamut</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2789</ID>
+    <EDID>_DS_Food_Teabag_FoxHole</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Fox in a Hole</ORIGINAL>
+    <TRADUIT>Zorro en apuros</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f278b</ID>
+    <EDID>_DS_Food_Teabag_PredatorsPrice</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Predators' Price</ORIGINAL>
+    <TRADUIT>Premio del depredador</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f278d</ID>
+    <EDID>_DS_Food_Teabag_SkeeverScramble</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Skeever Scramble</ORIGINAL>
+    <TRADUIT>Revuelto de skeever</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f278f</ID>
+    <EDID>_DS_Food_Teabag_BearBeerCheeseChowder</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bear and Beer Cheese Chowder</ORIGINAL>
+    <TRADUIT>Potaje de oso y queso con cerveza</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2791</ID>
+    <EDID>_DS_Food_Teabag_ReachmenSoup</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Reachmen Soup</ORIGINAL>
+    <TRADUIT>Sopa de renegado</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+  <ESP>
+    <GRUP>ALCH</GRUP>
+    <ID>040f2794</ID>
+    <EDID>_DS_Food_SausagedRat</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Sausaged Rat</ORIGINAL>
+    <TRADUIT>Salchicha de rata</TRADUIT>
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+  </ESP>
+</DocumentElement>
